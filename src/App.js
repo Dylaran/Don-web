@@ -1,4 +1,5 @@
 //import logo from './logo.svg';
+import don from './don.jpg';
 import './App.css';
 
 function App() {
@@ -6,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         {/*<img src={logo} className="App-logo" alt="logo" />*/}
-        <img src="don.jpg" alt="don" />
+        <img src={don} alt="don" />
         <p>
             {/*Edit <code>src/App.js</code> and save to reload.*/}
             Don Nakashima
