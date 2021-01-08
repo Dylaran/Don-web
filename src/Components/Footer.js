@@ -7,7 +7,7 @@ class Footer extends Component {
 
      <div className="row">
         <div className="twelve columns">
-            <ul className="social">
+            <ul className="social-links">
                 <li><a href={"https://www.facebook.com/DonNakashima/"}><i className={"fa fa-facebook"}></i></a></li>
                 <li><a href={"https://www.twitter.com/DonNakashima"}><i className={"fa fa-twitter"}></i></a></li>
                 <li><a href={"https://www.instagram.com/DonNakashima/"}><i className={"fa fa-instagram"}></i></a></li>
