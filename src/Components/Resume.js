@@ -41,6 +41,15 @@ class Resume extends Component {
                     <li>- Part of Atomic's <a href="https://atomicobject.com/careers/accelerator">Accelerator</a> program, Cell Gamma, to develop career skills as a junior developer</li>
                     <li>- Work on self-managed teams of 2-10 designers, developers, and testers</li>
                     <li>- Collaborate with clients to build products from scratch</li>
+                    <li>- Variety of tech stacks utilized</li>
+                </ul>
+            </div>
+            <div><h3>{"Principal"}</h3>
+                <p className="info">{"Principal Investment Portfolio Construction Developer"}<span>&bull;</span> <em className="date">{"Jan 2020 - May 2020"}</em></p>
+                <ul>
+                    <li>- Team of 4: Senior Capstone Project</li>
+                    <li>- Developed a web application that provides a user interface for investment analysts to generate portfolio constructions</li>
+                    <li>- Using the serverless application model in AWS, built with Angular framework, AWS S3, AWS API, AWS Lambda, and AWS DynamoDB</li>
                 </ul>
             </div>
             <div><h3>{"Ithaka"}</h3>
