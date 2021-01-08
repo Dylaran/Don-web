@@ -9,12 +9,6 @@ import Blogs from './Components/Blogs';
 import Portfolio from './Components/Portfolio';
 
 class App extends Component {
-
-  constructor(props){
-    super(props);
-  }
-
-
   render() {
     return (
       <div className="App">

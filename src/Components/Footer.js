@@ -5,7 +5,7 @@ class Footer extends Component {
     return (
       <footer>
 
-     <div className="row">
+      <div className="row">
         <div className="twelve columns">
             <ul className="social-links">
                 <li><a href={"https://www.facebook.com/DonNakashima/"}><i className={"fa fa-facebook"}></i></a></li>
