@@ -35,8 +35,8 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-            <div><h3>{"Atomic Object"}</h3>
-                <p className="info">{"Software Developer & Consultant"}<span>&bull;</span> <em className="date">{"Aug 2020 - Present"}</em></p>
+            <div><h3>{"Software Developer & Consultant"}</h3>
+                <p className="info">{"Atomic Object"}<span>&bull;</span> <em className="date">{"Aug 2020 - Present"}</em></p>
                 <ul>
                     <li>- Part of Atomic's <a href="https://atomicobject.com/careers/accelerator">Accelerator</a> program, Cell Gamma, to develop career skills as a junior developer</li>
                     <li>- Work on self-managed teams of 2-10 designers, developers, and testers</li>
@@ -44,16 +44,16 @@ class Resume extends Component {
                     <li>- Variety of tech stacks utilized</li>
                 </ul>
             </div>
-            <div><h3>{"Principal"}</h3>
-                <p className="info">{"Principal Investment Portfolio Construction Developer"}<span>&bull;</span> <em className="date">{"Jan 2020 - May 2020"}</em></p>
+            <div><h3>{"Principal Investment Portfolio Construction Developer"}</h3>
+                <p className="info">{"Principal Financial Services, Inc."}<span>&bull;</span> <em className="date">{"Jan 2020 - May 2020"}</em></p>
                 <ul>
                     <li>- Team of 4: Senior Capstone Project</li>
                     <li>- Developed a web application that provides a user interface for investment analysts to generate portfolio constructions</li>
                     <li>- Using the serverless application model in AWS, built with Angular framework, AWS S3, AWS API, AWS Lambda, and AWS DynamoDB</li>
                 </ul>
             </div>
-            <div><h3>{"Ithaka"}</h3>
-                <p className="info">{"JSTOR Labs Intern"}<span>&bull;</span> <em className="date">{"May 2019 - Dec 2019"}</em></p>
+            <div><h3>{"JSTOR Labs Intern"}</h3>
+                <p className="info">{"Ithaka"}<span>&bull;</span> <em className="date">{"May 2019 - Dec 2019"}</em></p>
                 <ul>
                     <li>- Worked with the Labs staff to develop the <a href="https://www.jstor.org/understand)">JSTOR Understanding Series site</a></li>
                     <li>- Reformat HTML/CSS text for compatibility with an automated processing pipeline to perform text matching, indexing, and linking</li>
