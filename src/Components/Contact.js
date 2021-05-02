@@ -9,7 +9,7 @@ class Contact extends Component {
                <h1>Email</h1>
             </div>
             <div className="ten columns">
-                  <p className="lead">Please write below if you would like to contact me</p>
+                  <p className="lead">(Contact currently WIP)</p>
             </div>
          </div>
 
