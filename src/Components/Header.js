@@ -55,8 +55,8 @@ class Header extends Component {
             />
             <h1 className="responsive-headline">Don Nakashima</h1>
             <h3>
-              Michigan State Alumnus. Software Engineer. <br />
-              Previous Atomic Object Software Developer & Consultant. <br />
+              Michigan State Alumnus. Software Engineer. React Developer. Gamer.
+              <br />
             </h3>
             <hr />
 
