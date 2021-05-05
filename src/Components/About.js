@@ -5,11 +5,12 @@ class About extends Component {
     return (
       <section id="about">
         <div className="row">
-          {/* <div className="three columns">
-            <a href="https://atomicobject.com/team/don-nakashima">
+          <div className="three columns">
+            {/* <a href="https://atomicobject.com/team/don-nakashima">
               <img className="ao-logo" src="images/ao-logo.png" alt="AO-Logo" />
-            </a>
-          </div> */}
+            </a> */}
+            <></>
+          </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
             <p>
