@@ -25,8 +25,8 @@ class About extends Component {
             Before I was at Atomic Object, I played Division 1 soccer on a full
             ride scholarship at University of Detroit Mercy. At Michigan State
             University, with all the extra free time, I competed in numerous
-            hackathons, enrolled in a VR bootcamp in San Francisco, and played
-            collegiate League of Legends at MSU for the Big Ten Network.
+            hackathons, enrolled in a VR bootcamp in San Francisco, and
+            developed Virtual Reality games in my free time.
           </p>
 
           <div className="row">
@@ -43,7 +43,7 @@ class About extends Component {
             <div className="columns download">
               <p>
                 <a
-                  href="https://drive.google.com/file/d/1cpnwiomzjt_qNfmXJhF8C281dv63MTAH/view?usp=sharing"
+                  href="https://drive.google.com/file/d/15JKpkcp_dOZ90FsFyIdCRjAPoHLZuXJl/view?usp=sharing"
                   className="button"
                 >
                   <i className="fa fa-download"></i>View Resume

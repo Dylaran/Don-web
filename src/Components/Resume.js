@@ -43,6 +43,24 @@ class Resume extends Component {
 
           <div className="nine columns main-col">
             <div>
+              <h3>{"React Web Developer"}</h3>
+              <p className="info">
+                {"AWC, Inc."}
+                <span>&bull;</span>{" "}
+                <em className="date">{"June 2021 - Current"}</em>
+              </p>
+              <ul>
+                <li>
+                  - Main focus on front-end web development using React,
+                  TypeScript, Redux
+                </li>
+                <li>
+                  - Utilized Cypress for UI testing framework and Azure DevOps
+                  for project management
+                </li>
+              </ul>
+            </div>
+            <div>
               <h3>{"Software Developer & Consultant"}</h3>
               <p className="info">
                 {"Atomic Object"}
