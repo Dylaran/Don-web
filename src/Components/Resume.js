@@ -55,6 +55,10 @@ class Resume extends Component {
                   TypeScript, Redux
                 </li>
                 <li>
+                  - Some back-end experience with ASP.NET Core to develop web
+                  APIs
+                </li>
+                <li>
                   - Utilized Cypress for UI testing framework and Azure DevOps
                   for project management
                 </li>
