@@ -31,7 +31,7 @@ class Blogs extends Component {
                   <blockquote>
                     <p>
                       <a href="https://spin.atomicobject.com/2021/02/05/atomic-thanks-feedback/">
-                        Thanks for the Feedback – An Atomic Take
+                        Thanks for the Feedback - An Atomic Take
                       </a>
                     </p>
                     <cite>
