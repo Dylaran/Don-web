@@ -51,17 +51,39 @@ class Resume extends Component {
               </p>
               <ul>
                 <li>
-                  - Main focus on front-end web development using React,
-                  TypeScript, Redux
+                  - Developed and implemented a new front-end architecture using
+                  React and TypeScript/JavaScript, along with Redux for state
+                  management
                 </li>
                 <li>
-                  - Some back-end experience with ASP.NET Core to develop web
-                  APIs
+                  - Created front-end user interfaces to match Adobe XD files
+                  according to design specifications
                 </li>
                 <li>
-                  - Utilized Cypress for UI testing framework and Azure DevOps
-                  for project management
+                  - Established cleaner project version control by merging
+                  projects into a mono repository for ease of managing packages
+                  globally
                 </li>
+                <li>
+                  - Upgraded project to use Yarn PnP to save development build
+                  time through minimal install footprints, shared installs
+                  across disks, and ghost dependencies protection
+                </li>
+                <li>
+                  - Designed and developed a reusable component library similar
+                  to Storybook
+                </li>
+                <li>
+                  - Integrated back-end APIs created with ASP.NET Core framework
+                  written in VB.NET and tested these endpoints with Postman to
+                  send and retrieve data
+                </li>
+                <li>
+                  - Implemented automated testing platforms with Cypress and
+                  unit tests using Jest and Mocha, resulting in a reduction of
+                  bug-related delays and an increase in overall code quality
+                </li>
+                <li>- Managed projects effectively using Azure DevOps tools</li>
               </ul>
             </div>
             <div>
